@@ -8,7 +8,8 @@ Houssem Medhioub's Awesome WM configuration
 Table of Contents
 -----------------
 
-[[_TOC_]]
+{:toc}
+
 
     0. What is it?
     1. Ubuntu Version
