@@ -1,15 +1,23 @@
 Houssem Medhioub's Awesome WM configuration
 ===========================================
 
-:Version: 1
-:Source: https://github.com/jordan-developer/awesome
-:Keywords: Awesome WM
+<table>
+    <tr>
+        <td>Version</td>
+        <td>1.0</td>
+    </tr>
+    <tr>
+        <td>Source</td>
+        <td>https://github.com/jordan-developer/awesome</td>
+    </tr>
+    <tr>
+        <td>Keywords</td>
+        <td>Awesome WM</td>
+    </tr>
+</table>
 
 Table of Contents
 -----------------
-
-{:toc}
-
 
     0. What is it?
     1. Ubuntu Version
@@ -20,6 +28,8 @@ Table of Contents
 
 0. What is it?
 --------------
+
+
 
 Houssem Medhioub's Awesome Window Manager configuration.
 Awesome WM Homepage: http://awesome.naquadah.org
@@ -43,7 +53,7 @@ Awesome WM Homepage: http://awesome.naquadah.org
 
     sudo apt-get install awesome awesome-extra kmix xscreensaver orage terminator
 
-    cd ~/.config; git clone https://github.com/jordan-developer/awesome awesome
+    cd ~/.config; git clone https://github.com/jordan-developer/awesome-wm awesome
     cd ~/.config/awesome
     git submodule init && git submodule update - download vicious module
 
