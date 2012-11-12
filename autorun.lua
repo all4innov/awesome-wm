@@ -15,5 +15,5 @@ run_once("kmix") --kmix
 
 run_once("wmname", "LG3D") -- java fix
 
---run_once("bash " .. os.getenv("HOME") .. "/home/houssem/.config/awesome/monitor.sh") -- set screens up
---run_once("/home/houssem/.config/awesome/monitor.sh") -- set screens up
+--run_once("bash " .. os.getenv("HOME") .. "/home/houssem/.config/awesome/scripts/monitor.sh") -- set screens up
+--run_once("/home/houssem/.config/awesome/scripts/monitor.sh") -- set screens up

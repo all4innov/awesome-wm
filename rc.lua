@@ -390,10 +390,10 @@ clientbuttons = awful.util.table.join(
 
 -- {{{ Key bindings
 globalkeys = awful.util.table.join(
-    awful.key({ modkey, 	  }, "F6", function () awful.util.spawn("/home/houssem/.config/awesome/internal_monitor.sh") end),
-    awful.key({ modkey,           }, "F7", function () awful.util.spawn("/home/houssem/.config/awesome/dual_monitor.sh") end),
-    awful.key({ modkey,           }, "F8", function () awful.util.spawn("/home/houssem/.config/awesome/dual_external_monitor.sh") end),
-    awful.key({ modkey,           }, "F9", function () awful.util.spawn("/home/houssem/.config/awesome/monitor.sh") end),
+    awful.key({ modkey, 	  }, "F6", function () awful.util.spawn("/home/houssem/.config/awesome/scripts/internal_monitor.sh") end),
+    awful.key({ modkey,           }, "F7", function () awful.util.spawn("/home/houssem/.config/awesome/scripts/dual_monitor.sh") end),
+    awful.key({ modkey,           }, "F8", function () awful.util.spawn("/home/houssem/.config/awesome/scripts/dual_external_monitor.sh") end),
+    awful.key({ modkey,           }, "F9", function () awful.util.spawn("/home/houssem/.config/awesome/scripts/monitor.sh") end),
     awful.key({ modkey,           }, "F5", function () awful.util.spawn("xscreensaver-command -lock") end),
     awful.key({ modkey,           }, "F3", function () awful.util.spawn("amixer --quiet set 'Master' 1+") end),
     awful.key({ modkey,           }, "F12",    awesome.quit             ),
