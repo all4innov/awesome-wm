@@ -1,5 +1,5 @@
-Houssem Medhioub's Awesome Window Manager configuration
-========================================================
+Houssem Medhioub's Awesome WM configuration
+===========================================
 
 :Version: 1
 :Source: https://github.com/jordan-developer/awesome
