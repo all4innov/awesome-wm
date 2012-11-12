@@ -8,6 +8,8 @@ Houssem Medhioub's Awesome WM configuration
 Table of Contents
 -----------------
 
+[[_TOC_]]
+
     0. What is it?
     1. Ubuntu Version
     2. Awesome Version
