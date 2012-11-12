@@ -24,7 +24,7 @@ Awesome WM Homepage: http://awesome.naquadah.org
 1. Ubuntu Version
 -----------------
 
-Ubuntu 12.10
+    Ubuntu 12.10
 
     3.5.0-18-generic #29-Ubuntu SMP Fri Oct 19 10:26:51 UTC 2012 x86_64 x86_64 x86_64 GNU/Linux
 
@@ -58,6 +58,6 @@ personal.lua and autorun.lua are configuration files for customisation
 
 This work is licensed under a Creative Commons Attribution 3.0 Unported License.
 
-.. image:: http://i.imgur.com/4XWrp.png
+image(http://i.imgur.com/4XWrp.png, CC-commons, CC-commons)
 To view a copy of this license, visit [ http://creativecommons.org/licenses/by/3.0/deed.en_US ].
 
