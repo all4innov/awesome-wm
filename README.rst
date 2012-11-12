@@ -1,5 +1,4 @@
-========================================================
-A Houssem Medhioub's Awesome Window Manager configuration
+Houssem Medhioub's Awesome Window Manager configuration
 ========================================================
 
 :Version: 1
