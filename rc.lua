@@ -528,7 +528,7 @@ awful.rules.rules = {
       border_width = beautiful.border_width,
       border_color = beautiful.border_normal }
     },
-    { rule = { class = "Thunar"          },   properties = { tag = tags[1][1] } },
+    --{ rule = { class = "Thunar"          },   properties = { tag = tags[1][1] } },
     { rule = { class = "ROX-Filer"       },   properties = { floating = true } },
     { rule = { class = "chrome"   },   properties = { tag = tags[1][2] } },
     { rule = { class = "Firefox"         },   properties = { tag = tags[1][2] } },
