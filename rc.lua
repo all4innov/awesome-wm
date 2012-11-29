@@ -1,14 +1,3 @@
--- {{{ License
---
--- Awesome configuration, using awesome 3.4.10 on Ubuntu 11.10
---   * Tony N <tony@git-pull.com>
---
--- This work is licensed under the Creative Commons Attribution-Share
--- Alike License: http://creativecommons.org/licenses/by-sa/3.0/
--- based off Adrian C. <anrxc@sysphere.org>'s rc.lua
--- }}}
-
-
 -- {{{ Libraries
 require("awful")
 require("awful.rules")
